@@ -15,7 +15,7 @@
     <a href="#screens">Screens</a> &#xa0; | &#xa0;
     <a href="#technologies">Technologies</a> &#xa0; | &#xa0;
     <a href="#requirements">Requirements</a> &#xa0; | &#xa0;
-    <a href="#installation">Installation</a> &#xa0; | &#xa0;
+    <a href="#installation">Installation</a> &#xa0;
   </p>
 </div>
 
