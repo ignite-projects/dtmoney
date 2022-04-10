@@ -25,8 +25,8 @@ dt-money is a web application for financial control, developed during the second
 
 ## Screens
 
-<img alt="blog brisanet" src=".github/images/dt-money.png">
-<img alt="blog brisanet" src=".github/images/dt-money-modal.png">
+<img alt="dt-money" src=".github/images/dt-money.png">
+<img alt="dt-money modal" src=".github/images/dt-money-modal.png">
 
 ## Technologies
 
