@@ -1,46 +1,70 @@
-# Getting Started with Create React App
+<h1 align="center"> 
+	dt-money
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div aling="center" id="top">
 
-## Available Scripts
+  <p align="center">  
+    <img alt="Version" src="https://img.shields.io/github/v/tag/robsonnatanael/dtmoney">
+    <img alt="Stars" src="https://img.shields.io/github/stars/robsonnatanael/dtmoney">    
+    <img alt="Issues" src="https://img.shields.io/github/issues/robsonnatanael/dtmoney?logoColor=1DA1F2">  
+  </p>
 
-In the project directory, you can run:
+  <p align="center">
+    <a href="#about">About</a> &#xa0; | &#xa0;
+    <a href="#screens">Screens</a> &#xa0; | &#xa0;
+    <a href="#technologies">Technologies</a> &#xa0; | &#xa0;
+    <a href="#requirements">Requirements</a> &#xa0; | &#xa0;
+    <a href="#installation">Installation</a> &#xa0;
+  </p>
+</div>
 
-### `yarn start`
+## About
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+dt-money is a web application for financial control, developed during the second module of Rocketseat Ignite.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Screens
 
-### `yarn test`
+<img alt="dt-money" src=".github/images/dt-money.png">
+<img alt="dt-money modal" src=".github/images/dt-money-modal.png">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies
 
-### `yarn build`
+- [x] React.Js
+- [x] TypeScript
+- [x] Styled Components
+- [x] Context API
+- [x] API Requests (Mirage.Js)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Requirements
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://yarnpkg.com/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Installation
 
-### `yarn eject`
+To make it run on your machine, follow the steps below
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+# Clone the repository in some folder on your machine
+$ git clone https://github.com/robsonnatanael/dtmoney.git
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Enter the repository
+$ cd dtmoney
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Install the dependencies by typing in the terminal
+$ yarn install
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Run the application
+$ yarn start
+```
 
-## Learn More
+<div align="right">
+Connect with me
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![Linkedin Badge](https://img.shields.io/badge/-Robson%20Natanael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robsonnatanael)](https://www.linkedin.com/in/robsonnatanael)
+[![Twitter Badge](https://img.shields.io/badge/-@robsonnatanael-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/robsonnatanael)](https://twitter.com/robsonnatanael)
+[![Rocketseat](https://img.shields.io/badge/-Rocketseat%20Profile-8358e1?style=flat-square&labelColor=8358e1&logoColor=white&link=https://app.rocketseat.com.br/me/robsonnatanael)](https://app.rocketseat.com.br/me/robsonnatanael)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+</div>
